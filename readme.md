@@ -13,13 +13,13 @@ Basé sur une FORMULE personnalisée.
 
 ## Screenshots
 ### Table on Product Page:
-<img src="/../master/screenshots/tableOnProduct.png" alt="Drawing" title='Table on Product Page'/>
+<img src="/../main/screenshots/tableOnProduct.png" alt="Drawing" title='Table on Product Page'/>
 
 ### Select Product to add a table
-<img src="/../master/screenshots/addTables.png" alt="Drawing" title='Select product to add tables'/>
+<img src="/../main/screenshots/addTables.png" alt="Drawing" title='Select product to add tables'/>
 
 ### Enter Values:
-<img src="/../master/screenshots/tableValues.png" alt="Drawing" title='There are many values that admin needs to add. and its based of formula.'/>
+<img src="/../main/screenshots/tableValues.png" alt="Drawing" title='There are many values that admin needs to add. and its based of formula.'/>
 
 ### Manage them:
-<img src="/../master/screenshots/AllTables.png" alt="Drawing" title='All Products that have Table, admin can delete them.'/>
+<img src="/../main/screenshots/AllTables.png" alt="Drawing" title='All Products that have Table, admin can delete them.'/>
